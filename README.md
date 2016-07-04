@@ -55,3 +55,5 @@ To see a list of valid arguments, run `python driver.py help`
   For larger puzzles, the program runs slowly since it needs to bruteforce a solution
 * Autopopulate grid using webcam
 * When you tell the program that a possible solution is not valid, it does not backtrack, but starts all over. Can be slow. So redesign algorithm.
+
+*This is not an active project, so if someone wants to help out with the todos, I would very much appreciate it.*
