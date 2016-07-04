@@ -16,8 +16,8 @@ For example:
 
 Snail level 1 can be inputted as
 
-lse
-lid
+lse<br>
+lid<br>
 lod
 
 OR
@@ -26,7 +26,7 @@ lselidlod
 
 OR
 
-lseli
+lseli<br>
 dlod
 
 If you want to input partial grid (puzzles that you have partially solved), you can use the hyphen ("-") for the blanks. You will find this character defined in the file `solver/utils.py` with the name `NONECHAR`.
