@@ -29,7 +29,7 @@ OR
 lseli<br>
 dlod
 
-If you want to input partial grid (puzzles that you have partially solved), you can use the hyphen ("-") for the blanks. You will find this character defined in the file `solver/utils.py` with the name `NONECHAR`.
+If you want to input partial grids (puzzles that you have partially solved), you can use the hyphen ("-") for the blanks. You will find this character defined in the file `solver/utils.py` with the name `NONECHAR`.
 
 ## Using WordBrain Solver
 
